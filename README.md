@@ -1,4 +1,4 @@
 unicorn
 =======
 
-Animatedly democratizing C# and facilitating Unity. All in three dimensions.
+Animatedly democratizing with C# to facilitate Unity. All in the language of three dimensions.
